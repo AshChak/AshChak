@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![Ashwin's GitHub Status](https://github-readme-stats.vercel.app/api?username=ashchak&show_icons=true)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=ashchak
+![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ashchak)
