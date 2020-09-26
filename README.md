@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working with Microsoft Azure Integration and .NET Core.
 
 ![Ashwin's GitHub Status](https://github-readme-stats.vercel.app/api?username=ashchak&show_icons=true)
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=ashchak
