@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working with Microsoft Azure Integration, .NET Core.
+- 🔭 I’m currently working with Microsoft Azure Integration and .NET Core.
 
 ![Ashwin's GitHub Status](https://github-readme-stats.vercel.app/api?username=ashchak&show_icons=true)
